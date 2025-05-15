@@ -14,3 +14,5 @@ This Spring Boot project provides a RESTful service to calculate customer reward
 - Handles multiple customers and transactions.
 - Includes unit and integration tests.
 - JavaDocs and coding standards followed.
+## security
+- this project follows spring security features
